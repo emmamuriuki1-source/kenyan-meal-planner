@@ -1,68 +1,25 @@
-# Hi, I'm Emma Muriuki 👋
+# Kenyan Meal Planner
 
-### 💻 Software Developer | 🌐 Networking | 🔐 Cybersecurity | 🤖 AI Integration | 📱 Mobile App Development
+A Web-Based Meal Planning and Budgeting System for Kenyan Homes.
 
-I'm a developer focused on building practical systems for real-world use, especially for Kenyan households and small businesses. I enjoy working on web applications, mobile applications, networking labs, cybersecurity tools, and increasingly, AI-powered solutions.
+**Developer:** Emma Nyawira Muriuki  
+**Institution:** Murang'a University of Technology  
+**Programme:** Bachelor of Business Information Technology  
 
----
+## System Features
+- Weekly meal planning with local Kenyan recipes
+- Real-time grocery cost calculation
+- Budget tracking with saving suggestions
+- Nutritional summary and food group tracking
+- Downloadable weekly budget and nutrition report
+- Admin panel for user and recipe management
 
-## 🚀 Featured Projects
+## Technologies Used
+PHP, MySQL, JavaScript, HTML5, CSS3, Chart.js, XAMPP
 
-🍽️ **Kenyan Meal Planner**
-Web-based meal planning and budgeting system for Kenyan homes
-
-🔐 **Safeguard Validation Manager**
-Security validation and assessment management tool
-
-🌐 **Cisco Networking Labs**
-Hands-on networking labs and configurations
-
-📱 **Mobile App Projects (In Progress)**
-Learning to build cross-platform mobile applications using modern frameworks
-
----
-
-## 🛠️ Tech Stack
-
-* Python
-* Django
-* JavaScript
-* HTML & CSS
-* Git & GitHub
-* Cisco Networking
-* SQLite
-* React
-* Mobile App Development (Flutter / React Native)
-*  AI/ML integration 
-
----
-
-## 📚 Currently Learning
-
-* Cybersecurity & Threat Analysis
-* Network Security
-* API Development
-* AI Integration in Web Applications
-* Mobile Application Development (Flutter / React Native)
-* Machine Learning Fundamentals
-
----
-
-## 🎯 Goals
-
-* Build production-ready AI-powered web and mobile applications
-* Contribute to open source projects
-* Develop cybersecurity tools with AI-assisted detection
-* Deploy scalable full-stack systems
-
----
-
-## 📫 Contact
-
-* GitHub: [https://github.com/emmamuriuki1-source](https://github.com/emmamuriuki1-source)
-* 0790646081
-* emmanyawira978@gmail.com
-
----
-
-⭐ Check out my repositories below for my latest projects.
+## How to Run
+1. Clone the repository
+2. Import `mealplanner/database/mealplanner.sql` into MySQL
+3. Configure `mealplanner/app/config/db.php` with your database credentials
+4. Place the project in your XAMPP htdocs folder
+5. Access via `http://localhost/mealplanner/public/`
