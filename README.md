@@ -32,8 +32,8 @@ Learning to build cross-platform mobile applications using modern frameworks
 * Cisco Networking
 * SQLite
 * React
-* Mobile App Development (Flutter / React Native - learning)
-* Basic AI/ML integration (learning & experimentation)
+* Mobile App Development (Flutter / React Native)
+*  AI/ML integration 
 
 ---
 
