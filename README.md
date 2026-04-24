@@ -60,6 +60,8 @@ Learning to build cross-platform mobile applications using modern frameworks
 ## 📫 Contact
 
 * GitHub: [https://github.com/emmamuriuki1-source](https://github.com/emmamuriuki1-source)
+* 0790646081
+* emmanyawira978@gmail.com
 
 ---
 
